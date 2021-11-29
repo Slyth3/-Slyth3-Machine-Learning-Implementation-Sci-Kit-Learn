@@ -1,4 +1,4 @@
-# Machine-Learning-Implementation-Sci-Kit-Learn
+# Machine Learning implementation with Sci-Kit Learn (Supervised)
 Applying Supervised Sci-Kit Learn libraries to real world examples
 
 Models/ libraries implemented: 
