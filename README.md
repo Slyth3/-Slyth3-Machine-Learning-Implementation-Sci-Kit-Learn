@@ -1,5 +1,5 @@
 # Machine-Learning-Implementation-Sci-Kit-Learn
-Applying Sci Kit Learn library to real world examples
+Applying Supervised Sci-Kit Learn libraries to real world examples
 
 Models/ libraries implemented: 
 1. Linear Regression 
