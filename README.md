@@ -1,2 +1,9 @@
-# -Slyth3-Machine-Learning-Implementation-Sci-Kit-Learn
+# Machine-Learning-Implementation-Sci-Kit-Learn
 Applying Sci Kit Learn library to real world examples
+
+Models/ libraries implemented: 
+1. Linear Regression 
+2. K-Nearest Neighbors
+3. Logistic Regression_Imputation_OneHotEncoding
+4. Random Forests vs Decision Trees
+5. Support Vector Classifier
