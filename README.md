@@ -1,5 +1,5 @@
 # Machine Learning implementation with Sci-Kit Learn (Supervised)
-Applying Supervised Sci-Kit Learn libraries to real world examples
+These notebooks are templates to be used for quick implementation of baseline ML algorithms (unsupervised) and to help students further understand how to apply these algorithms to a real world scenario
 
 Models/ libraries implemented: 
 1. Linear Regression 
